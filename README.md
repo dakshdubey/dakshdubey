@@ -10,8 +10,6 @@
 
 ---
 
-<!-- PROFILE VISUAL -->
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 </p>
@@ -28,9 +26,9 @@ Currently leading the development of **Eventofu**, with an emphasis on system re
 
 ## Core Systems
 
-* Eventofu — Event infrastructure platform
-* EvoCuriosity — Cognitive AI engine
-* Auth & Policy SDKs — Scalable security infrastructure
+* Eventofu - Event infrastructure platform
+* EvoCuriosity - Cognitive AI engine
+* Auth & Policy SDKs - Scalable security infrastructure
 
 ---
 
@@ -39,6 +37,14 @@ Currently leading the development of **Eventofu**, with an emphasis on system re
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dart,react,nodejs,flutter,mysql,mongodb,firebase,docker,kubernetes,gcp,git,github,figma,arduino&perline=10" />
 </p>
+
+---
+
+## Advanced Domains
+
+* Machine Learning (ML) & Deep Learning (DL)
+* Artificial Intelligence Systems & Prompt Engineering
+* Reverse Engineering & System-Level Analysis
 
 ---
 
@@ -58,7 +64,8 @@ Currently leading the development of **Eventofu**, with an emphasis on system re
 ## Engineering Focus
 
 * Backend Architecture & Distributed Systems
-* AI Systems & Prompt Engineering
+* AI / ML / DL Systems Design
+* Reverse Engineering & Low-Level System Understanding
 * Cloud Infrastructure & DevOps
 * Full-Stack Product Development
 * Robotics & Embedded Engineering
@@ -85,8 +92,6 @@ Currently leading the development of **Eventofu**, with an emphasis on system re
 > Impact over complexity.
 
 ---
-
-<!-- FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
