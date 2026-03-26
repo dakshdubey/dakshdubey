@@ -17,9 +17,9 @@ Primary areas of work include backend architecture, AI-driven systems, and end-t
 
 ## Current Work
 
-* Eventofu — Event management platform connecting users with verified vendors
-* EvoCuriosity — Cognitive AI system focused on reasoning and knowledge discovery
-* Authentication & Policy SDKs — Modular infrastructure for secure and scalable integrations
+* Eventofu - Event management platform connecting users with verified vendors
+* EvoCuriosity - Cognitive AI system focused on reasoning and knowledge discovery
+* Authentication & Policy SDKs - Modular infrastructure for secure and scalable integrations
 
 ---
 
