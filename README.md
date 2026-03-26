@@ -1,77 +1,93 @@
-# Daksha Dubey
+<!-- PREMIUM HEADER -->
 
-Founder & CEO, Eventofu
-Building scalable systems across AI, event infrastructure, and SaaS platforms
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Daksha%20Dubey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
----
-
-## About
-
-Computer Science Engineering student with a focus on designing and delivering scalable, production-grade systems.
-
-Currently leading **Eventofu**, a platform aimed at optimizing interactions between users and vendors in the event management ecosystem.
-
-Primary areas of work include backend architecture, AI-driven systems, and end-to-end product development with a strong emphasis on performance, reliability, and scalability.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+%7C+Eventofu;AI+%2B+Backend+Systems+Engineer;Building+Scalable+Tech+Products;From+Idea+to+Production+Systems" />
+</p>
 
 ---
 
-## Current Work
+<!-- PROFILE VISUAL -->
 
-* Eventofu - Event management platform connecting users with verified vendors
-* EvoCuriosity - Cognitive AI system focused on reasoning and knowledge discovery
-* Authentication & Policy SDKs - Modular infrastructure for secure and scalable integrations
-
----
-
-## Technical Expertise
-
-**Programming Languages**
-JavaScript, TypeScript, Python, Java, C, Dart
-
-**Web & Application Development**
-Node.js, Full-Stack Development, RESTful APIs, Web Application Architecture
-
-**Frontend & UI Technologies**
-React, HTML, CSS, Tailwind CSS, UI/UX Design, Figma
-
-**Mobile Development**
-Flutter, Android (Java, Kotlin, XML)
-
-**Databases & Data Systems**
-MySQL, MongoDB, Firebase, Database Design & Management
-
-**Artificial Intelligence & Emerging Tech**
-Artificial Intelligence (AI), Prompt Engineering
-
-**Cloud & DevOps**
-Google Cloud Platform (GCP), Docker, Kubernetes, CI/CD Pipelines
-
-**Robotics & Hardware**
-Arduino, Arduino IDE, Robotics, Drone Technology
-
-**Tools & Workflow**
-Git, GitHub, Postman
-
-**Payments Integration**
-Razorpay
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
 
 ---
 
-## Core Competencies
+## Profile
 
-* Scalable system design and backend engineering
-* Product-oriented development and execution
-* API architecture and service structuring
-* Analytical problem solving and critical thinking
-* Startup leadership and strategic execution
+Focused on building scalable, production-grade systems across AI, backend infrastructure, and SaaS platforms.
+
+Currently leading the development of **Eventofu**, with an emphasis on system reliability, real-world usability, and long-term scalability.
+
+---
+
+## Core Systems
+
+* Eventofu — Event infrastructure platform
+* EvoCuriosity — Cognitive AI engine
+* Auth & Policy SDKs — Scalable security infrastructure
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,dart,react,nodejs,flutter,mysql,mongodb,firebase,docker,kubernetes,gcp,git,github,figma,arduino&perline=10" />
+</p>
+
+---
+
+## System Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshdubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=dakshdubey&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshdubey&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Engineering Focus
+
+* Backend Architecture & Distributed Systems
+* AI Systems & Prompt Engineering
+* Cloud Infrastructure & DevOps
+* Full-Stack Product Development
+* Robotics & Embedded Engineering
 
 ---
 
 ## Contact
 
-Email: [dakshdubey1007@gmail.com](mailto:dakshdubey1007@gmail.com)
-Location: India
+<p align="center">
+  <a href="mailto:dakshdubey1007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dakshdubey">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-"Focused on building scalable technology that delivers measurable real-world impact."
+## Philosophy
+
+> Systems over shortcuts.
+> Scale over noise.
+> Impact over complexity.
+
+---
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
