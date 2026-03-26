@@ -37,7 +37,7 @@ Currently leading the development of **Eventofu**, with an emphasis on system re
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,dart,react,nodejs,flutter,mysql,mongodb,firebase,docker,kubernetes,gcp,git,github,figma,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dart,react,nodejs,flutter,mysql,mongodb,firebase,docker,kubernetes,gcp,git,github,figma,arduino&perline=10" />
 </p>
 
 ---
