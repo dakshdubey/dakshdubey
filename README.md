@@ -9,11 +9,7 @@
 
 <!-- LOWLIGHTER METRICS MAIN UNIFIED DASHBOARD -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/dakshdubey?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=10&languages.colors=github&languages.sections=most-used%2Crecently-used&habits=1&habits.facts=1&habits.charts=1&achievements=1&achievements.threshold=C&config.timezone=Asia%2FKolkata&theme=tokyonight" width="100%" alt="Lowlighter Engineering Dashboard" />
-</p>
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="Generated Lowlighter Metrics Dashboard" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/dakshdubey/dakshdubey/main/github-metrics.svg" width="100%" alt="Lowlighter Engineering Dashboard" />
 </p>
 
 <br/>
@@ -55,7 +51,7 @@
         <code>Languages</code> &nbsp; <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,dart&perline=8" /><br/>
         <code>Application</code> &nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" /><br/>
         <code>Backend</code> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs&perline=8" /><br/>
-        <code>Database</code> &nbsp; <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=8" /><br/>
+        <code>Database</code> &nbsp; <img src="https://skillicons.dev/icons?i=postgre,mysql,mongodb,firebase&perline=8" /><br/>
         <code>Cloud & DevOps</code> &nbsp; <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes&perline=8" /><br/>
         <code>Tools</code> &nbsp; <img src="https://skillicons.dev/icons?i=git,github,figma,arduino&perline=8" />
       </p>
