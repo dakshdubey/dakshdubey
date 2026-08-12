@@ -51,7 +51,7 @@
         <code>Languages</code> &nbsp; <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,dart&perline=8" /><br/>
         <code>Application</code> &nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" /><br/>
         <code>Backend</code> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs&perline=8" /><br/>
-        <code>Database</code> &nbsp; <img src="https://skillicons.dev/icons?i=postgre,mysql,mongodb,firebase&perline=8" /><br/>
+        <code>Database</code> &nbsp; <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase&perline=8" /><br/>
         <code>Cloud & DevOps</code> &nbsp; <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes&perline=8" /><br/>
         <code>Tools</code> &nbsp; <img src="https://skillicons.dev/icons?i=git,github,figma,arduino&perline=8" />
       </p>
