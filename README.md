@@ -9,7 +9,7 @@
 
 <!-- LOWLIGHTER METRICS MAIN UNIFIED DASHBOARD -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dakshdubey/dakshdubey/main/github-metrics.svg" width="100%" alt="Lowlighter Engineering Dashboard" />
+  <img src="https://metrics.lecoq.io/dakshdubey?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.colors=github&config.timezone=Asia%2FKolkata&theme=tokyonight" width="100%" alt="Lowlighter Engineering Dashboard" />
 </p>
 
 <br/>
