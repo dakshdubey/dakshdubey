@@ -1,22 +1,26 @@
-<!-- PREMIUM HERO HEADER -->
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=220&section=header&text=Daksha%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:00f7ff&height=220&section=header&text=Daksha%20Dubey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+%7C+Eventofu;AI+%2B+Backend+Systems+Engineer;Building+Scalable+Tech+Products;From+Idea+to+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+%7C+Eventofu;AI+%2B+Backend+Systems+Engineer;Building+Scalable+Tech+Products;From+Idea+to+Production+Systems" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- PROFILE CONTAINER -->
+<br/>
+
+<!-- INTRODUCTION / PROFILE -->
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <img src="https://img.shields.io/badge/⚡_ABOUT-PROFILE-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Developer Visual" />
+    </td>
+    <td width="65%" valign="middle">
+      <h3><code>PROFILE</code></h3>
       <p>Focused on building scalable, production-grade systems across AI, backend infrastructure, and SaaS platforms.</p>
       <p>Currently leading the development of <b>Eventofu</b>, with an emphasis on system reliability, real-world usability, and long-term scalability.</p>
     </td>
@@ -25,82 +29,28 @@
 
 <br/>
 
-<!-- DEVELOPER VISUAL CONTAINER -->
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380" alt="Developer Visual" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- CORE SYSTEMS -->
-<table width="100%">
-  <tr>
-    <td colspan="3" align="left">
-      <img src="https://img.shields.io/badge/⚡_PORTFOLIO-CORE_SYSTEMS-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/01-SYSTEM-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-      <h3>Eventofu</h3>
-      <p><sub>Event infrastructure platform</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/02-SYSTEM-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-      <h3>EvoCuriosity</h3>
-      <p><sub>Cognitive AI engine</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/03-SYSTEM-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-      <h3>Auth & Policy SDKs</h3>
-      <p><sub>Scalable security infrastructure</sub></p>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
-<!-- TECH STACK -->
+<!-- CORE SYSTEMS ARCHITECTURE -->
+<h3><code>CORE SYSTEMS ARCHITECTURE</code></h3>
+
 <table width="100%">
   <tr>
-    <td colspan="2" align="left">
-      <img src="https://img.shields.io/badge/⚡_ARCHITECTURE-TECH_STACK-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
+    <td width="33%" valign="top">
+      <h4><code>01 — EVENTOFU</code></h4>
+      <p>Event infrastructure platform</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages</h4>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,dart&perline=8" />
+    <td width="33%" valign="top">
+      <h4><code>02 — EVOCURIOSITY</code></h4>
+      <p>Cognitive AI engine</p>
     </td>
-    <td width="50%" valign="top">
-      <h4>📱 Frontend & Mobile</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs&perline=8" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗄️ Databases & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp&perline=8" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🛠️ DevOps & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma,arduino&perline=12" />
+    <td width="33%" valign="top">
+      <h4><code>03 — AUTH & POLICY SDKs</code></h4>
+      <p>Scalable security infrastructure</p>
     </td>
   </tr>
 </table>
@@ -108,117 +58,119 @@
 <br/>
 
 <!-- ADVANCED DOMAINS -->
+<h3><code>ADVANCED DOMAINS & RESEARCH</code></h3>
+
 <table width="100%">
   <tr>
-    <td colspan="3" align="left">
-      <img src="https://img.shields.io/badge/⚡_RESEARCH-ADVANCED_DOMAINS-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
+    <td width="33%" valign="top">
+      <h4><code>01</code></h4>
+      <p><b>Machine Learning (ML) & Deep Learning (DL)</b></p>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/%E2%97%8F_01-DOMAIN-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-      <br/><br/>
-      <b>Machine Learning (ML) & Deep Learning (DL)</b>
+    <td width="33%" valign="top">
+      <h4><code>02</code></h4>
+      <p><b>Artificial Intelligence Systems & Prompt Engineering</b></p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/%E2%97%8F_02-DOMAIN-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-      <br/><br/>
-      <b>Artificial Intelligence Systems & Prompt Engineering</b>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/%E2%97%8F_03-DOMAIN-00F7FF?style=for-the-badge&labelColor=0D1117"/>
-      <br/><br/>
-      <b>Reverse Engineering & System-Level Analysis</b>
+    <td width="33%" valign="top">
+      <h4><code>03</code></h4>
+      <p><b>Reverse Engineering & System-Level Analysis</b></p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- SYSTEM METRICS -->
+<!-- TECH STACK -->
+<h3><code>TECHNOLOGY STACK</code></h3>
+
 <table width="100%">
   <tr>
-    <td colspan="2" align="left">
-      <img src="https://img.shields.io/badge/⚡_ANALYTICS-SYSTEM_METRICS-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
+    <td width="50%" valign="top">
+      <p><b>LANGUAGES</b></p>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,dart&perline=8" />
+    </td>
+    <td width="50%" valign="top">
+      <p><b>APPLICATION</b></p>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=dakshdubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=dakshdubey&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
+    <td width="50%" valign="top">
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshdubey&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+      <p><b>BACKEND</b></p>
+      <img src="https://skillicons.dev/icons?i=nodejs&perline=8" />
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <p><b>DATABASE</b></p>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <p><b>CLOUD & DEVOPS</b></p>
+      <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes&perline=8" />
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <p><b>TOOLS</b></p>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,arduino&perline=8" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- LOWLIGHTER METRICS -->
+<h3><code>SYSTEM ANALYTICS & LOWLIGHTER METRICS</code></h3>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/dakshdubey?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.colors=github&habits=1&habits.facts=1&habits.charts=1&achievements=1&achievements.threshold=C&config.timezone=Asia%2FKolkata&theme=tokyonight" width="100%" alt="Lowlighter GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="Generated Lowlighter Metrics" onerror="this.style.display='none'" />
+</p>
 
 <br/>
 
 <!-- ENGINEERING FOCUS -->
+<h3><code>ENGINEERING FOCUS MATRIX</code></h3>
+
 <table width="100%">
   <tr>
-    <td colspan="2" align="left">
-      <img src="https://img.shields.io/badge/⚡_CAPABILITIES-ENGINEERING_FOCUS-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/01-CAPABILITY-00F7FF?style=flat-square&labelColor=0D1117"/>
-      <br/>
-      <b>Backend Architecture & Distributed Systems</b>
+      <p><code>01</code> &nbsp; <b>Backend Architecture & Distributed Systems</b></p>
+      <p><code>03</code> &nbsp; <b>Reverse Engineering & Low-Level System Understanding</b></p>
+      <p><code>05</code> &nbsp; <b>Full-Stack Product Development</b></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/02-CAPABILITY-00F7FF?style=flat-square&labelColor=0D1117"/>
-      <br/>
-      <b>AI / ML / DL Systems Design</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/03-CAPABILITY-00F7FF?style=flat-square&labelColor=0D1117"/>
-      <br/>
-      <b>Reverse Engineering & Low-Level System Understanding</b>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/04-CAPABILITY-00F7FF?style=flat-square&labelColor=0D1117"/>
-      <br/>
-      <b>Cloud Infrastructure & DevOps</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/05-CAPABILITY-00F7FF?style=flat-square&labelColor=0D1117"/>
-      <br/>
-      <b>Full-Stack Product Development</b>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/06-CAPABILITY-00F7FF?style=flat-square&labelColor=0D1117"/>
-      <br/>
-      <b>Robotics & Embedded Engineering</b>
+      <p><code>02</code> &nbsp; <b>AI / ML / DL Systems Design</b></p>
+      <p><code>04</code> &nbsp; <b>Cloud Infrastructure & DevOps</b></p>
+      <p><code>06</code> &nbsp; <b>Robotics & Embedded Engineering</b></p>
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- CONTACT -->
+<h3><code>CONTACT & CONNECT</code></h3>
+
+<p align="center">
+  <a href="mailto:dakshdubey1007@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-dakshdubey1007%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dakshdubey">
+    <img src="https://img.shields.io/badge/GITHUB-dakshdubey-00F7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117"/>
+  </a>
+</p>
+
+<br/>
+
 <!-- PHILOSOPHY -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/⚡_PRINCIPLES-PHILOSOPHY-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<h3><code>PHILOSOPHY</code></h3>
 
 <table width="100%">
   <tr>
@@ -239,33 +191,9 @@
 
 <br/>
 
-<!-- CONTACT -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/⚡_CONNECT-CONTACT-00F7FF?style=for-the-badge&labelColor=0D1117" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/>
-      <a href="mailto:dakshdubey1007@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-dakshdubey1007%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117"/>
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/dakshdubey">
-        <img src="https://img.shields.io/badge/GITHUB-dakshdubey-00F7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117"/>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 </p>
+
 
